@@ -1,2 +1,2 @@
 # learn-git
-<h2>Let's start with Git</h2>
+<h5>Let's start with Git</h5>
